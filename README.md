@@ -1,0 +1,2 @@
+# Chińczyk
+Gra planszowa Chińczyk
